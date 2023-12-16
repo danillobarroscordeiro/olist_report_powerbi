@@ -42,10 +42,10 @@ Defining a theme for report based on companies color and color pallete for plots
 ![](figures/Payment Analysis.png)
 
 **Order Analysis**
-![](figures/Order Analysis.png)
+![](Order Analysis.png)
 
 **Review Analysis**
-![](figures/Review Analysis.png)
+![](Review Analysis.png)
 
 **Item Analysis**
 ![](figures/Item Analysis.png)
