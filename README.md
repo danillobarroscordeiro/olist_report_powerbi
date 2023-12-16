@@ -33,7 +33,7 @@ Defining a theme for report based on companies color and color pallete for plots
 ## 4. **Dashboards**
 
 **Menu Dashboard**
-![](PowerBIGIF.gif)
+![](Menu.gif)
 
 **Product Analysis**
 ![](ProductAnalysis.png)
