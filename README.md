@@ -33,19 +33,19 @@ Defining a theme for report based on companies color and color pallete for plots
 ## 4. **Dashboards**
 
 **Menu Dashboard**
-![](figures/Power BI GIF.gif)
+![](PowerBIGIF.gif)
 
 **Product Analysis**
-![](figures/Product Analysis.png)
+![](ProductAnalysis.png)
 
 **Payment Analysis**
-![](figures/Payment Analysis.png)
+![](PaymentAnalysis.png)
 
 **Order Analysis**
-![](Order Analysis.png)
+![](OrderAnalysis.png)
 
 **Review Analysis**
-![](Review Analysis.png)
+![](ReviewAnalysis.png)
 
 **Item Analysis**
-![](figures/Item Analysis.png)
+![](ItemAnalysis.png)
